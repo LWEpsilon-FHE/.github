@@ -3,9 +3,9 @@
 # 🐈‍⬛ Fully Homomorphic Encryption Research Team (LWEpsilon-FHE) 🐾
 
 <pre>
- /\_/\\
-( o.o )   meow~  while (privacy) { encrypt(); }
- > ^ <
+/\_/\\
+( o.o )
+> ^ <
 </pre>
 
 <sub>Welcome to <b>LWEpsilon-FHE</b> — a tiny team of developers exploring fully homomorphic encryption, building cool things.</sub>
