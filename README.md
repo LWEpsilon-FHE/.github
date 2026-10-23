@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
 
 🐈‍⬛ Fully Homomorphic Encryption Research Team (LWEpsilon-FHE) 🐾
 <pre>
@@ -7,6 +7,7 @@ div align="center">
  > ^ <
  </pre>
 <sub>Welcome to <b>LWEpsilon-FHE</b> — a tiny team of developers exploring fully homomorphic encryption, building cool things.</sub>
+
 </div>
 
 ---
