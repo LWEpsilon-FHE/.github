@@ -31,7 +31,7 @@ Welcome to our team's works. Our research focus on privacy preserving powered by
 *  **Linru Zhang** — 
 *  **Xiangning Wang** — 
 *  **Jiahao Zhong** — PhD Student in Cryptography 🎸
-*  **Deli** —
-*  **Coco** —
-*  **Berry** —
+*  **Deli** — Our Ragdoll boy. He loves his daily outdoor walks and enjoy talking to humans. 
+*  **Coco** — Our Ragdoll girl, our CSO (Chief Smile Officer). 
+*  **Berry** — Our Cavapoo girl and our little explorer and hiker. 
 *  **Floxi** — A brave little cat who loves humans from a cozy distance. Enthusiastic about code reviews (strictly watching).
